@@ -109,3 +109,11 @@ Conclusion
 This code beautifully demonstrates how deep learning can blend art and technology, transforming ordinary photos into images that mimic the style of renowned paintings—an example of AI’s creative capabilities in modern computer vision.
 
 **INPUT:**
+
+![Image](https://github.com/user-attachments/assets/c1e630e7-de4a-4391-adb7-f8b8e6f992fb)
+
+![Image](https://github.com/user-attachments/assets/d4b0d39b-407e-42ea-85a5-845e2f8fcdc7)
+
+**OUTPUT:**
+
+<img width="726" height="675" alt="Image" src="https://github.com/user-attachments/assets/2cda10ac-33d9-4ab1-ab66-df1af1d76e9a" />
